@@ -14,23 +14,23 @@ For: Northwind
 >Last, JE Consulting was asked to provide recommendations for further work as they continue to seek areas for further statistical analysis. JE Consulting will provide these recommendations in the 'Future Work' portion of the notebook. 
 
 ### Hypothesis Testing:
+Below are the tests we ran during this project followed by the restults:
+
 >#### Hypothesis Test #1:
 >Do discounts have a statistically significant effect on the number of products customers order? If so, at what level(s) of discount?
 >#### Hypothesis Test #2:
 >Is the average order size in North America larger than international order sizes?
 >#### Hypothesis Test #3:
-Does order size vary in a statistically signficant way between Northwind employees?
+>Does order size vary in a statistically signficant way between Northwind employees?
 >#### Hypothesis Test #4:
 >Does the average revenue per order differ in 2014 from 2012 & 2013?
 
 ### The following is a summation of our findings :
 
 >#### Test One (Discounts):
-
 >Do discounts have a statistically significant effect on the number of products customers order? If so, at what level(s) of discount?
 
 >#### Conclusion One:
-
 >Part One: Yes, discounts do have a significant impact on the number of products ordered. Not only do they increase the number of products ordered, but we can say the impact of applying disounts is signficant.
 
 >Part Two: Generally, discounts have signficantly impact the number of products ordered at most levels with the exception of discounts at the 10% level.
