@@ -4,14 +4,14 @@ By: Jonathan Ericksen
 For: Northwind
 
 ### Background:
-Northwind is looking to gain critical insights provided by the data housed within their database. They are looking to make strategic moves based on insights gleaned from their data. As a small company, reserouces are limited. Thus, they have contracted with JE Consulting to analyze their data and perform a number of statistical tests answering key questions posed by management.
+>Northwind is a small company looking to gain critical insights provided by the data housed within their data warehouse. Northwind is looking to make strategic moves based on insights gleaned from the data. As a small company, their reserouces are limited, thus, Northwind has contracted with JE Consulting to analyze the data and perform a number of statistical tests answering key questions posed by management.
 
 ### Objective:
-The objective for JE Consulting is to extract the necessary data from their SQL database and perform four statistical tests that determine with confidence whether or not previous, non-data driven assumptions about their operations, are indeed correct.
+>The objective for JE Consulting is to extract the necessary data from their SQL based database and perform four statistical tests that determine with confidence whether or not previous, non-data driven assumptions about their operations, are indeed correct. 
 
-The results of these tests will be used by the management team to assess future strategies for expanding their operations as well as improving overall operational efficiency. These tests will direct future company resources towards yielding the highest return on capital. The conclusions of the tests run and the implications for Northwind will be summarized in the 'Conclusions' portion of the notebook.
+>The results of these tests will be used by the management team to assess future strategies for improving revenue growth and improving overall operational efficiency. These tests will direct  company resources towards yielding the highest return on companies capital. The conclusions of these tests, and the implications for Northwind, will be summarized in the 'Conclusions' portion of the notebook. 
 
-Last, JE Consulting was asked to provide recommendations for further work as they continue to seek out topics for further statistical analysis. We'll provide these recommendations in the 'Future Work' portion of the notebook.
+>Last, JE Consulting was asked to provide recommendations for further work as they continue to seek areas for further statistical analysis. JE Consulting will provide these recommendations in the 'Future Work' portion of the notebook. 
 
 ### Hypothesis Testing:
 #### Hypothesis Test #1:
