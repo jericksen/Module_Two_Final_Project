@@ -26,7 +26,7 @@ For: Northwind
 >#### Hypothesis Test #4:
 >Does the average revenue per order differ in 2014 from 2012 & 2013?
 
-### The following is a summation of our findings :
+#### The following is a summation of our findings :
 
 >#### Test One (Discounts):
 >Do discounts have a statistically significant effect on the number of products customers order? If so, at what level(s) of discount?
