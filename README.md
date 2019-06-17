@@ -33,7 +33,6 @@ For: Northwind
 
 >#### Conclusion One:
 >Part One: Yes, discounts do have a significant impact on the number of products ordered. Not only do they increase the number of products ordered, but we can say the impact of applying disounts is signficant.
-
 >Part Two: Generally, discounts have signficantly impact the number of products ordered at most levels with the exception of discounts at the 10% level.
 
 >#### Test Two (Efficiency):
@@ -61,7 +60,6 @@ There is much to be done to continue drawing insights from our data. Below we pr
 
 **Discounts**:
 >Use them to push inventory, but further work is needed to asses the impact of discounts on revenue. Although discounts lead to higher inventory turnover, we don't yet have an understanding of their impact on revenue. Additional tests are needed to assess whether or not discounts impact revenue, and if so, to test and quantify the impact of discounts on revenue.
-
 
 **Efficiency:**
 > If the goal is to increase revenue per order, and thus efficiency, we must better understand why order sizes in North America are larger on average than international orders. Does shipping costs impact order size? Are international customers operating under different storage constraints than domestic customers? Do international customers submit more orders on average than domestic? We must investigate these factors and apply resources towards increasing the order size of the international customers. 
